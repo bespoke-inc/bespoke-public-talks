@@ -1,2 +1,3 @@
-# bespoke-public-snippets
-Code samples used in Bespoke's public materials like presentations.
+# About
+
+Code samples and other materials for presentations by Bespoke tech team members.
