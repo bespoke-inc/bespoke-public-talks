@@ -1,2 +1,2 @@
 # bespoke-public-snippets
-Code samples used in public materials like presentations.
+Code samples used in Bespoke's public materials like presentations.
