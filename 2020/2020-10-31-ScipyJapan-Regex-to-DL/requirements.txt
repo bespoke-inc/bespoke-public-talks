@@ -1,0 +1,7 @@
+nltk==3.4.1
+numpy==1.18.4
+scikit-learn==0.20.3
+spacy==2.3.0
+fastai==1.0.61
+transformers==2.11.0
+fuzzywuzzy==0.17.0
