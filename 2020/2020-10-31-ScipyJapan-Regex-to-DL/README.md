@@ -1,9 +1,9 @@
 # Building a Scalable AI Chatbot: From Regext to Deep Learning
 
-Dialogue systems use a variety of mechanisms to carryout informative and coherent conversations withtheir users.   These conversations can be achieved through rule-basd,  template-based, retrieval-based approaches or in a data-driven manner that teaches the agent to learn from raw conversational data. This workshop will focus on the retreival-based method. 
+Dialogue systems use a variety of mechanisms to carry out informative and coherent conversations withtheir users.   These conversations can be achieved through rule-based,  template-based, retrieval-based approaches or in a data-driven manner that teaches the agent to learn from raw conversational data. This workshop will focus on the retreival-based method. 
 
 ## Retreival-Based Chatbot
-A retrieval-based agent or chatbot retrieves related responses from queries in the corpus that are similar to the given query.  We are not interested in generating a new response, but select the most suitable response (originally made to other queries) as reply to the current query. We will be try to do this by having a set of questions with labelled intents and then try to classify the intent.
+A retrieval-based agent or chatbot retrieves related responses from queries in the corpus that are similar to the given query.  We are not interested in generating a new response, but select the most suitable response (originally made to other queries) as reply to the current query. We will try to do this by having a set of questions with labelled intents and then try to classify the intent.
 
 ### Accessing Colab
 
